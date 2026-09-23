@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @thevien257
 - 👀 I’m interested in Embedded
 - 🌱 I’m currently learning Computer Engineering
-- 📫 How to reach me [Facebook](https://www.facebook.com/vien.the.180/) or [LinkedIn](https://www.linkedin.com/in/thevien257/)
